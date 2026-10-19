@@ -1,0 +1,7 @@
+{
+  "name": "RAVAN — THE NIGHT OF LIGHT",
+  "description": "One arrow. A thousand lights. A night to remember. An interactive 3D cinematic Dussehra festival game by Anjesh Awasthi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
